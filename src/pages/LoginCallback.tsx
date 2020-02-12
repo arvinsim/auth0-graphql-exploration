@@ -1,6 +1,6 @@
 import React from 'react';
 
-function LoginCallback(props: any) {
+export function LoginCallback() {
     return (
         <div>
             Login Callback
