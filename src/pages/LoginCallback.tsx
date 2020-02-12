@@ -1,9 +1,5 @@
-import React from 'react';
+import React from "react";
 
 export function LoginCallback() {
-    return (
-        <div>
-            Login Callback
-        </div>
-    );
-};
+  return <div>Login Callback</div>;
+}
